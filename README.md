@@ -15,9 +15,9 @@ A customizable horizontal dial picker component for SwiftUI that provides an int
 
 ## Requirements
 
-- iOS 17.0+ / macOS 14.0+
+- iOS 18.0+ / macOS 15.0+
 - Swift 5.9+
-- Xcode 15.0+
+- Xcode 16.0+
 
 ## Installation
 
