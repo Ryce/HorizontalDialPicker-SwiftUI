@@ -2,6 +2,8 @@
 
 A customizable horizontal dial picker component for SwiftUI that provides an intuitive scrolling interface for value selection.
 
+![HorizontalDialPicker Demo](horizontaldemo.gif)
+
 ## Features
 
 - Smooth scrolling horizontal dial interface
