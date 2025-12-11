@@ -24,7 +24,7 @@ A customizable horizontal dial picker component for SwiftUI that provides an int
 Add HorizontalDialPicker to your project using Swift Package Manager:
 
 1. In Xcode, select File > Add Package Dependencies...
-2. Enter the repository URL: `https://github.com/yourusername/HorizontalDialPicker`
+2. Enter the repository URL: `https://github.com/ryce/HorizontalDialPicker-SwiftUI`
 3. Select the version you want to use
 4. Click Add Package
 
@@ -32,7 +32,7 @@ Alternatively, add it to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/HorizontalDialPicker", from: "1.0.0")
+    .package(url: "https://github.com/ryce/HorizontalDialPicker-SwiftUI", from: "1.0.0")
 ]
 ```
 
